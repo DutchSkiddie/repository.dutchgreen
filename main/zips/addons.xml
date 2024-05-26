@@ -30,8 +30,8 @@
                 [fix] Fixed and cleaned.
             </news>
             <assets>
-                <icon>resources/media/icon.png</icon>
-                <fanart>resources/media/fanart.png</fanart>
+                <icon>icon.png</icon>
+                <fanart>fanart.png</fanart>
                 <banner></banner>
                 <clearlogo></clearlogo>
                 <screenshot></screenshot>
