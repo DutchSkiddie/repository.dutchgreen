@@ -1,0 +1,3 @@
+[submodule "main/script.preloader"]
+	path = main/script.preloader
+	url = https://github.com/DutchSkiddie/script.preloader
